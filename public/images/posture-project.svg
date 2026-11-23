@@ -1,0 +1,13 @@
+<svg width="900" height="620" viewBox="0 0 900 620" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs><linearGradient id="p" x1="302" y1="130" x2="620" y2="500" gradientUnits="userSpaceOnUse"><stop stop-color="#69E3D9"/><stop offset=".55" stop-color="#80B8FF"/><stop offset="1" stop-color="#A99BFF"/></linearGradient><radialGradient id="g"><stop stop-color="#3D849D" stop-opacity=".4"/><stop offset="1" stop-color="#0B1421" stop-opacity="0"/></radialGradient></defs>
+  <rect width="900" height="620" rx="18" fill="#0B1421"/><circle cx="457" cy="314" r="315" fill="url(#g)"/>
+  <g opacity=".18" stroke="#87A9CC"><path d="M84 108H816M84 188H816M84 268H816M84 348H816M84 428H816M84 508H816"/><path d="M164 72V548M244 72V548M324 72V548M404 72V548M484 72V548M564 72V548M644 72V548M724 72V548"/></g>
+  <path d="M421 126C383 140 362 173 365 209L372 270C376 298 395 318 405 337L387 422C383 441 397 456 416 457H497C515 456 529 441 525 422L507 337C517 318 536 298 540 270L547 209C550 173 529 140 491 126C474 120 438 120 421 126Z" fill="#182D43" stroke="#A6C1DE" stroke-opacity=".36" stroke-width="2"/>
+  <path d="M450 148V415" stroke="url(#p)" stroke-width="5" stroke-linecap="round" stroke-dasharray="4 8"/>
+  <path d="M401 246C420 262 480 262 509 246" stroke="#69E3D9" stroke-width="16" stroke-linecap="round" stroke-opacity=".78"/>
+  <path d="M397 330C425 342 481 342 513 330" stroke="#83B7FF" stroke-width="17" stroke-linecap="round" stroke-opacity=".7"/>
+  <rect x="426" y="236" width="48" height="28" rx="8" fill="#0D1929" stroke="#A5D4E8" stroke-opacity=".8"/><circle cx="450" cy="250" r="6" fill="#69E3D9"/>
+  <path d="M472 250L626 204L687 204" stroke="#69E3D9" stroke-width="2" stroke-linecap="round"/><circle cx="687" cy="204" r="5" fill="#69E3D9"/><rect x="687" y="174" width="145" height="59" rx="8" fill="#14253A" stroke="#69E3D9" stroke-opacity=".35"/><text x="705" y="198" fill="#7F9BB7" font-family="monospace" font-size="10" letter-spacing="1.5">SENSOR NODE</text><text x="705" y="217" fill="#E8F5FF" font-family="monospace" font-size="13">MPU6050</text>
+  <path d="M427 330L265 380H202" stroke="#91B9FF" stroke-width="2" stroke-linecap="round"/><circle cx="202" cy="380" r="5" fill="#91B9FF"/><rect x="70" y="350" width="132" height="60" rx="8" fill="#14253A" stroke="#91B9FF" stroke-opacity=".35"/><text x="87" y="375" fill="#7F9BB7" font-family="monospace" font-size="10" letter-spacing="1.5">FEEDBACK</text><text x="87" y="394" fill="#E8F5FF" font-family="monospace" font-size="13">VIBRATION</text>
+  <text x="72" y="580" fill="#6D829D" font-family="monospace" font-size="13" letter-spacing="3">WEARABLE / POSTURE CONCEPT</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg width="900" height="620" viewBox="0 0 900 620" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs><linearGradient id="a" x1="120" y1="302" x2="760" y2="302" gradientUnits="userSpaceOnUse"><stop stop-color="#60E3D7"/><stop offset=".55" stop-color="#80B7FF"/><stop offset="1" stop-color="#A99BFF"/></linearGradient><radialGradient id="b"><stop stop-color="#25516A" stop-opacity=".58"/><stop offset="1" stop-color="#0B1421" stop-opacity="0"/></radialGradient></defs>
+  <rect width="900" height="620" rx="18" fill="#0B1421"/><circle cx="455" cy="310" r="330" fill="url(#b)"/>
+  <g stroke="#85A7CB" stroke-opacity=".11"><path d="M70 110H830M70 190H830M70 270H830M70 350H830M70 430H830M70 510H830"/><path d="M130 70V550M210 70V550M290 70V550M370 70V550M450 70V550M530 70V550M610 70V550M690 70V550M770 70V550"/></g>
+  <g stroke="#65D7D1" stroke-opacity=".16"><path d="M70 150H830M70 230H830M70 310H830M70 390H830M70 470H830"/><path d="M170 70V550M250 70V550M330 70V550M410 70V550M490 70V550M570 70V550M650 70V550M730 70V550"/></g>
+  <path d="M70 314H174L194 314L211 289L229 339L250 222L277 411L301 314H365L384 314L401 286L420 338L441 219L468 411L493 314H556L576 314L592 289L610 340L632 223L659 410L683 314H830" stroke="url(#a)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M70 314H830" stroke="#B3CBE7" stroke-opacity=".25" stroke-dasharray="4 12"/>
+  <circle cx="250" cy="222" r="8" fill="#65E0D7"/><circle cx="441" cy="219" r="8" fill="#89B8FF"/><circle cx="632" cy="223" r="8" fill="#A99BFF"/>
+  <rect x="70" y="55" width="164" height="44" rx="8" fill="#14253A" stroke="#8BB9D7" stroke-opacity=".25"/><circle cx="91" cy="77" r="5" fill="#68E2E0"/><path d="M107 77H213" stroke="#A4B8CE" stroke-opacity=".7" stroke-width="2" stroke-linecap="round"/>
+  <rect x="682" y="472" width="148" height="72" rx="8" fill="#14253A" stroke="#8BB9D7" stroke-opacity=".25"/><text x="700" y="498" fill="#7B92AD" font-family="monospace" font-size="12" letter-spacing="2">LEAD II</text><text x="700" y="526" fill="#E6F2FF" font-family="monospace" font-size="21">72 BPM</text>
+  <text x="72" y="580" fill="#6D829D" font-family="monospace" font-size="13" letter-spacing="3">BIOSIGNAL / TIME SERIES</text>
+</svg>

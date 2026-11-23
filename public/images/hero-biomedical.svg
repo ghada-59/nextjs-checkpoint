@@ -1,0 +1,27 @@
+<svg width="780" height="720" viewBox="0 0 780 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="line" x1="112" y1="340" x2="674" y2="340" gradientUnits="userSpaceOnUse"><stop stop-color="#6DE5D9"/><stop offset=".54" stop-color="#78B8FF"/><stop offset="1" stop-color="#A99BFF"/></linearGradient>
+    <radialGradient id="sphere" cx="0" cy="0" r="1" gradientTransform="matrix(1 0 0 1 388 337) rotate(90) scale(230)"><stop stop-color="#4EBBC2" stop-opacity=".2"/><stop offset="1" stop-color="#4EBBC2" stop-opacity="0"/></radialGradient>
+    <linearGradient id="tile" x1="185" y1="145" x2="590" y2="565" gradientUnits="userSpaceOnUse"><stop stop-color="#233D5A" stop-opacity=".62"/><stop offset="1" stop-color="#111C2E" stop-opacity=".25"/></linearGradient>
+    <filter id="blur" x="79" y="74" width="624" height="569" filterUnits="userSpaceOnUse"><feGaussianBlur stdDeviation="31"/></filter>
+  </defs>
+  <circle cx="390" cy="350" r="248" fill="url(#sphere)"/>
+  <ellipse cx="388" cy="354" rx="237" ry="174" stroke="#7FB9DD" stroke-opacity=".22" stroke-dasharray="3 10" transform="rotate(-26 388 354)"/>
+  <ellipse cx="388" cy="354" rx="192" ry="224" stroke="#6DE5D9" stroke-opacity=".2" stroke-dasharray="2 9" transform="rotate(28 388 354)"/>
+  <g filter="url(#blur)"><circle cx="389" cy="350" r="165" fill="#50BCCC" fill-opacity=".15"/></g>
+  <rect x="157" y="142" width="466" height="407" rx="28" fill="url(#tile)" stroke="#A8C9EB" stroke-opacity=".18"/>
+  <path d="M187 228H593M187 277H593M187 326H593M187 375H593M187 424H593M187 473H593" stroke="#9DC6E5" stroke-opacity=".08"/>
+  <path d="M231 176V511M281 176V511M331 176V511M381 176V511M431 176V511M481 176V511M531 176V511" stroke="#9DC6E5" stroke-opacity=".08"/>
+  <path d="M188 347H234L253 347L272 321L291 380L311 274L336 420L358 347H393L415 347L436 328L453 366L471 347H594" stroke="url(#line)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M188 347H594" stroke="#85B4D4" stroke-opacity=".23" stroke-dasharray="3 8"/>
+  <circle cx="311" cy="274" r="6" fill="#73E4D8"/><circle cx="311" cy="274" r="15" stroke="#73E4D8" stroke-opacity=".35"/>
+  <circle cx="436" cy="328" r="5" fill="#93B7FF"/><circle cx="436" cy="328" r="13" stroke="#93B7FF" stroke-opacity=".3"/>
+  <rect x="196" y="175" width="92" height="25" rx="6" fill="#101C2D" stroke="#9DB4D4" stroke-opacity=".2"/>
+  <circle cx="209" cy="187.5" r="3" fill="#72E4D9"/><path d="M220 188H271" stroke="#A8BCD4" stroke-opacity=".6" stroke-width="2" stroke-linecap="round"/>
+  <rect x="482" y="477" width="114" height="42" rx="7" fill="#101C2D" stroke="#9DB4D4" stroke-opacity=".2"/>
+  <path d="M496 504L506 495L517 500L529 488L540 493L551 484L563 489L577 481" stroke="#74DED9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="570" cy="171" r="4" fill="#A99BFF"/><circle cx="570" cy="171" r="12" stroke="#A99BFF" stroke-opacity=".3"/>
+  <circle cx="184" cy="520" r="4" fill="#6DE5D9"/><circle cx="184" cy="520" r="11" stroke="#6DE5D9" stroke-opacity=".27"/>
+  <path d="M116 250L149 250M132 233V267M631 441H666M648 424V458" stroke="#83C7D6" stroke-opacity=".55" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="645" cy="248" r="2" fill="#A99BFF"/><circle cx="137" cy="432" r="2" fill="#6DE5D9"/>
+</svg>
