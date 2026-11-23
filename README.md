@@ -1,4 +1,4 @@
-# Next.js Portfolio Website — GOMYCODE Checkpoint
+# Next.js Portfolio Website Checkpoint
 
 A complete, responsive portfolio website built with **Next.js, React, and TypeScript**. It includes Home, About, Projects, and Contact pages, shared navigation, local project visuals, CSS styling, and a request-time Server-Side Rendering (SSR) example.
 
